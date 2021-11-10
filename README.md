@@ -6,6 +6,8 @@
 </p>
 
 ## Usage
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fshiki.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fshiki?ref=badge_shield)
+
 
 ```sh
 npm i shiki
@@ -82,3 +84,6 @@ https://github.com/sponsors/octref
 ## License
 
 MIT © [Pine Wu](https://github.com/octref)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fshiki.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fshiki?ref=badge_large)
